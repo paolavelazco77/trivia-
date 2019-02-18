@@ -1,0 +1,13 @@
+body{
+	background-color: aquamarine;
+}
+
+.text-muted{
+	color: palevioletred;
+}
+.last-seconds{
+  color: violet;
+}
+.option{
+  margin: 15px;
+}
